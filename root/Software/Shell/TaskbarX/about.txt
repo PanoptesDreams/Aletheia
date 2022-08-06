@@ -1,0 +1,1 @@
+Gives you control over the position of your taskbar icons.
