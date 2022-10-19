@@ -9,6 +9,8 @@ Aletheia is the source of truth and your personal Argus
 
 This repository houses the software needed to (re)build Aletheia
 
+An alternative to [ArgusOS](https://github.com/PanoptesDreams/ArgusOS)
+
 
 ## How?
 
